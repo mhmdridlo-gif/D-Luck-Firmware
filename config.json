@@ -1,4 +1,3 @@
 {
-  "force_app_update": false,
-  "force_fw_update": false
+  "force_fw_update": true
 }
